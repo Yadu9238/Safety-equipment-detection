@@ -1,0 +1,1 @@
+<annotations><filename>hard_hat_workers623.png</filename><folder>images</folder><size><width>415</width><height>416</height><depth>3</depth></size><object><name>Helmet</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>158.61778846153848</xmin><ymin>3.0</ymin><xmax>237.4278846153846</xmax><ymax>102.0</ymax></bndbox></object></annotations>
