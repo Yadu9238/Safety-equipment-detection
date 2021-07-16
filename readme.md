@@ -2,6 +2,7 @@
 
 A simple computer vision based project to detect if person is wearing an helmet or not as part of the 
 [Wobot Hackathon 4.0](https://wobot.ai/blog/wobot-hackathon-4-0/)
+<br>
 The Dataset was provided by them and can be accessed from the hackathon page
 I have used YoloV3 in order to implement this and since the provided dataset was
 in pascal_voc format, initial step was to convert to Yolo format using python script. For the 
