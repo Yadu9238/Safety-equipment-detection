@@ -9,4 +9,4 @@ submission, I converted yolo annotation to pascal_voc using another script
 <br><br>
 We were asked to use our trained model to detect from a video. The results looked something like this
 
-<img src="Images/ex1.gif" width=100/> <img src="Images/ex2.gif" width=100/>
+<img src="Images/ex1.gif" width=500/> <img src="Images/ex2.gif" width=500/>
