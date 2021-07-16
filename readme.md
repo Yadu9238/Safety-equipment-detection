@@ -10,4 +10,8 @@ submission, I converted yolo annotation to pascal_voc using another script
 <br><br>
 We were asked to use our trained model to detect from a [video](https://www.youtube.com/watch?v=6PoPwZ0WO9w). The results looked something like this
 
-<img src="Images/ex1.gif" width=400/> <img src="Images/ex2.gif" width=500/>
+<p align="center">
+  <img alt="Ex1" src="Images/ex1.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Ex2" src="Images/ex2.gif" width="45%">
+</p>
